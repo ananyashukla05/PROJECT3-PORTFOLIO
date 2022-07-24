@@ -9,10 +9,14 @@ In the project directory, you can run:
 ### `npm start`
 
 ABOUT PROJECT
+
 WEB DEVELOPMENT PROJECT that can describe me the best.It provides a convenient way for everyone to view my work while also allowing me to
 expand on my skills and services. 
 TECHNOLOGIES USED- HTML ,CSS, JAVASCRIPT and REACT. 
+
 HOW THIS LOOKS-
+
+
 ![P1](https://user-images.githubusercontent.com/79189599/180624910-b0cdac95-594c-44b0-9efc-ab322f3de048.png)
 ![P2](https://user-images.githubusercontent.com/79189599/180624912-a6948842-7f22-4fe3-b5b1-c58330c6e3cd.png)
 ![P3](https://user-images.githubusercontent.com/79189599/180624915-b1ed2f31-a432-4875-89f5-d72eb0312175.png)
